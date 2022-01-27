@@ -14,7 +14,7 @@
     "@pixiv/three-vrm": "^0.2.0",
     "face-api.js": "^0.21.0",
     "skyway-js": "^2.0.4",
-    "three": "^0.109.0",
+    "three": "^0.137.0",
     "three-orbitcontrols-ts": "^0.1.2"
   },
   "devDependencies": {
